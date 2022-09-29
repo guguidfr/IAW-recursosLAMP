@@ -1,0 +1,9 @@
+Credenciales para usuario invitado de moodle:
+    username: invitado
+    password: -PasswordInvitado1-
+Credenciales para usuario invitado de wordpress:
+    username: invitado
+    password: -PasswordInvitado1-
+Credenciales para usuario inviado de nextcloud
+    username: usuario invitado
+    password: -PasswordInvitado1-
